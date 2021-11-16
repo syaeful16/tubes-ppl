@@ -1,0 +1,55 @@
+.style-search {
+    width: 80%;
+    height: 40px;
+    border-radius: 30px solid;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin: 10px;
+    width: 188px;
+    height: 240px;
+    background: white;
+    list-style: none;
+}
+
+.info-book {
+    padding-left: 8px;
+}
+
+.img-view {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background: brown;
+    position: inherit;
+}
+
+.btn-filter {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.float-button {
+    width: 80px;
+    height: 80px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 40px;
+    position:fixed;
+    right: 30%;
+    bottom: 20px;
+}
