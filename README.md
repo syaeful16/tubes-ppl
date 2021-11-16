@@ -9,4 +9,6 @@
 6. Klik **Choose File**. Masukkan database yang didownload tadi.. klik **Go**
 
 ## Tutorial membuka website
-1. Download repository ini
+1. Download repository as ZIP
+2. Ekstrak ke "C:\xampp\htdocs"
+3. 
