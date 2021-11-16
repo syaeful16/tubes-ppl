@@ -11,4 +11,5 @@
 ## Tutorial membuka website
 1. Download repository as ZIP
 2. Ekstrak ke "C:\xampp\htdocs"
-3. 
+3. Buka web browser klik url berikut <http://localhost/tubes-ppl-master/>
+4. Done
